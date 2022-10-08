@@ -8,4 +8,5 @@ After recieving Snapshots from Video feed, It is fed into the first model which 
 ![](https://github.com/theyastustory/wolveshackathon-wildfire_detection-riskanalysis/blob/main/Screenshot%20(468).png)
 
 If Absent , the next image is evaluated
+## 
 If Present, we move to stage 2
