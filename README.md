@@ -1,7 +1,9 @@
 # wolveshackathon-wildfire_detection-riskanalysis
 ## STAGE 1
 ## Fire Detection
-After recieving Snapshots from Video feed, It is fed into the first model which evaluates if a fire is present or not
+After recieving Snapshots from Video feed, It is fed into the first model which evaluates if a fire is present or not 
+## 
+amazon_ec2_link: http://ec2-44-202-219-114.compute-1.amazonaws.com/
 ### INPUT:
 ![](https://github.com/theyastustory/wolveshackathon-wildfire_detection-riskanalysis/blob/main/Screenshot%20(467).png)
 ### OUTPUT:
